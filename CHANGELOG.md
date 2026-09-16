@@ -10,6 +10,8 @@ This changelog should be updated as part of a PR if the work is worth noting (mo
 
 #### Bug fixes
 
+* Add equality operators for `statssummary1d` and `statssummary2d`, allowing merge-based continuous aggregate refreshes that use `stats_agg`
+
 #### Other notable changes
 
 #### Shout-outs
